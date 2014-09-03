@@ -9,3 +9,4 @@ Team Oasis:
 
 - Iago Franco Bacurau
 - Joao Pedro Santos de Moura
+- Pedro Silva Moreira
